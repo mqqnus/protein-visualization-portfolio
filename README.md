@@ -5,6 +5,6 @@ Collection of small protein vizualisation and analysis projects created using Py
 ## Topics
 - GFP structure and chromophore
 
-Tools:
+### Tools:
  - PyMOL
  - Protein Data Bank (PDB)
